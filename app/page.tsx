@@ -373,8 +373,8 @@ export default function Home() {
             />
             <figcaption>
               <span className="cap-num">04</span>
-              <span className="cap-name">The Print Room</span>
-              <span className="cap-meta">3D · Laser · Vinyl</span>
+              <span className="cap-name">The Pool Cabana</span>
+              <span className="cap-meta">Heated · Year-round · Off the shop floor</span>
             </figcaption>
           </figure>
           <figure className="space-photo">
