@@ -332,7 +332,7 @@ export default function Home() {
           <figure className="space-photo">
             <div
               className="space-photo-img"
-              style={{ backgroundImage: "url('/photo-work-desks.png')" }}
+              style={{ backgroundImage: "url('/photo-shop-floor.jpg')" }}
               aria-hidden="true"
             />
             <figcaption>
@@ -344,7 +344,7 @@ export default function Home() {
           <figure className="space-photo">
             <div
               className="space-photo-img"
-              style={{ backgroundImage: "url('/photo-work-library.png')" }}
+              style={{ backgroundImage: "url('/photo-bench.jpg')" }}
               aria-hidden="true"
             />
             <figcaption>
@@ -356,7 +356,7 @@ export default function Home() {
           <figure className="space-photo">
             <div
               className="space-photo-img"
-              style={{ backgroundImage: "url('/photo-work-longtable.png')" }}
+              style={{ backgroundImage: "url('/photo-lounge.jpg')" }}
               aria-hidden="true"
             />
             <figcaption>
@@ -368,7 +368,7 @@ export default function Home() {
           <figure className="space-photo">
             <div
               className="space-photo-img"
-              style={{ backgroundImage: "url('/photo-pool.png')" }}
+              style={{ backgroundImage: "url('/photo-printroom.jpg')" }}
               aria-hidden="true"
             />
             <figcaption>
@@ -380,7 +380,7 @@ export default function Home() {
           <figure className="space-photo">
             <div
               className="space-photo-img"
-              style={{ backgroundImage: "url('/photo-garage.png')" }}
+              style={{ backgroundImage: "url('/photo-loading-bay.jpg')" }}
               aria-hidden="true"
             />
             <figcaption>
@@ -392,7 +392,7 @@ export default function Home() {
           <figure className="space-photo">
             <div
               className="space-photo-img"
-              style={{ backgroundImage: "url('/photo-storefront.png')" }}
+              style={{ backgroundImage: "url('/photo-frontdoor.jpg')" }}
               aria-hidden="true"
             />
             <figcaption>
@@ -419,7 +419,7 @@ export default function Home() {
         intro="Welding bays vented properly. Stock library on the wall. The grinder lives in its own corner so the sparks don't find your project."
         items={metal}
         tone="teal"
-        photo="/photo-bar.jpg"
+        photo="/photo-metal.jpg"
       />
 
       <ShopSection
@@ -428,7 +428,7 @@ export default function Home() {
         intro="A wall of printers and two lasers. Walk in, queue up, walk out with the part. Filament charged by gram, laser time by the minute."
         items={print}
         tone="chrome"
-        photo="/photo-garage.png"
+        photo="/photo-printroom.jpg"
       />
 
       <ShopSection
@@ -462,7 +462,7 @@ export default function Home() {
         intro="One door, four tiers. Cancel any month. No shareholder mailers, no Slack channel called fun."
         items={membership}
         tone="pool"
-        photo="/photo-pool.png"
+        photo="/photo-membership.jpg"
       />
 
       <ShopSection
